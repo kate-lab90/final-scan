@@ -1,0 +1,23 @@
+@use "sass:math";
+@use '../../styles/mixins';
+@use '../../styles/shared';
+@use '../../styles/vars' as *;
+
+.footer {
+    background: $cyan;
+    color: #FFFFFF;
+}
+
+.wrapper {
+    @extend %d-f;
+}
+
+.contacts {
+    @extend %font-14-17;
+    text-align: right;
+}
+
+.copyright {
+    @include mixins.font(12px, 15px);
+    margin-top: 21px;
+}

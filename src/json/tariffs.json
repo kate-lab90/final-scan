@@ -1,0 +1,44 @@
+[
+    {
+        "id": "11",
+        "title": "Beginner",
+        "subtitle": "Для небольшого исследования",
+        "img": "bulb",
+        "price": "799 ₽",
+        "oldPrice": "1 200 ₽",
+        "installment": "или 150 ₽/мес. при рассрочке на 24 мес.",
+        "one": "Безлимитная история запросов",
+        "two": "Безопасная сделка",
+        "three": "Поддержка 24/7",
+        "background": "#FFB64F",
+        "currentTariff": true
+    },
+    {
+        "id": "12",
+        "title": "Pro",
+        "subtitle": "Для HR и фрилансеров",
+        "img": "bull's-eye",
+        "price": "1 299 ₽",
+        "oldPrice": "2 600 ₽",
+        "installment": "или 279 ₽/мес. при рассрочке на 24 мес.",
+        "one": "Все пункты тарифа Beginner",
+        "two": "Экспорт истории",
+        "three": "Рекомендации по приоритетам",
+        "background": "#7CE3E1",
+        "currentTariff": false
+    },
+    {
+        "id": "13",
+        "title": "Business",
+        "subtitle": "Для корпоративных клиентов",
+        "img": "laptop",
+        "price": "2 379 ₽",
+        "oldPrice": "3 700 ₽",
+        "one": "Все пункты тарифа Pro",
+        "two": "Безлимитное количество запросов",
+        "three": "Приоритетная поддержка",
+        "background": "#000000",
+        "currentTariff": false,
+        "color": "#ffffff"
+    }
+]
